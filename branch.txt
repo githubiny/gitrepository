@@ -1,1 +1,2 @@
 My frist git branch
+Test conflict in git merge
