@@ -3,3 +3,7 @@ My frist git branch
 test conflict on git merge master
 
 test confilict on git merge
+
+test merge -no-ff
+
+test merge --no-ff two
