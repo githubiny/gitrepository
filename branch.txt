@@ -11,3 +11,5 @@ test merge --no-ff tw
 test merge  --ff
 
 test merge  fast forward
+
+default merge mode
